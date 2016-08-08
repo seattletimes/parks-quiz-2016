@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "answer": "Great Smoky Mountains"
+  },
+  {
+    "id": 1,
+    "answer": "Yellowstone",
+    "correct": "Yellowstone is in Wyoming, Montana and Idaho. Great Smoky Mountains is in North Carolina and Tennessee. Death Valley is in California and Nevada. Grand Canyon is entirely within Arizona."
+  },
+  {
+    "id": 1,
+    "answer": "Grand Canyon"
+  },
+  {
+    "id": 1,
+    "answer": "Death Valley"
+  },
+  {
+    "id": 2,
+    "answer": "Haleakala on Maui, with that giant volcanic cone"
+  },
+  {
+    "id": 2,
+    "answer": "Yellowstone, with all those geyser fields"
+  },
+  {
+    "id": 2,
+    "answer": "Wrangell-St. Elias National Park, because, oh, it’s Alaska",
+    "correct": "Alaska’s Wrangell-St. Elias National Park, with 13.2 million acres, is the same size as Yellowstone National Park, Yosemite National Park, and Switzerland combined. Seven of America’s 10 largest national parks are in Alaska (also including Gates of the Arctic, Denali, Katmai, Glacier Bay, Lake Clark and Kobuk Valley)."
+  },
+  {
+    "id": 2,
+    "answer": "Redwoods, with all those tall trees"
+  },
+  {
+    "id": 3,
+    "answer": "Franklin Roosevelt"
+  },
+  {
+    "id": 3,
+    "answer": "Woodrow Wilson"
+  },
+  {
+    "id": 3,
+    "answer": "Ulysses S. Grant",
+    "correct": "Grant, on March 1, 1872, establishing Yellowstone National Park"
+  },
+  {
+    "id": 3,
+    "answer": "James Garfield"
+  },
+  {
+    "id": 4,
+    "answer": "Great Smoky Mountains",
+    "correct": "Great Smoky Mountains, with 10.7 million last year"
+  },
+  {
+    "id": 4,
+    "answer": "Grand Canyon"
+  },
+  {
+    "id": 4,
+    "answer": "Acadia"
+  },
+  {
+    "id": 4,
+    "answer": "Badlands"
+  },
+  {
+    "id": 5,
+    "answer": "Peeking at peaks in Grand Teton National Park, Wyoming."
+  },
+  {
+    "id": 5,
+    "answer": "Agog over rock formations at Arches National Park, Utah.",
+    "correct": "Arches National Park (those are all rock formations)"
+  },
+  {
+    "id": 5,
+    "answer": "Dodging gators at Everglades National Park, Florida, after stopping by the Ringling Circus Museum in Sarasota."
+  },
+  {
+    "id": 5,
+    "answer": "Checking out stalactites in Carlsbad Caverns, New Mexico."
+  },
+  {
+    "id": 6,
+    "answer": "Colorado"
+  },
+  {
+    "id": 6,
+    "answer": "Alaska"
+  },
+  {
+    "id": 6,
+    "answer": "Utah"
+  },
+  {
+    "id": 6,
+    "answer": "California",
+    "correct": "California has the most (nine), followed by Alaska (eight), Utah (five), and Colorado (four)"
+  },
+  {
+    "id": 7,
+    "answer": "Texas"
+  },
+  {
+    "id": 7,
+    "answer": "Hawaii"
+  },
+  {
+    "id": 7,
+    "answer": "Florida"
+  },
+  {
+    "id": 7,
+    "answer": "American Samoa",
+    "correct": "9,000-acre National Park of American Samoa is on three Samoan islands and protects coral reefs, rain forests, mountains and beaches."
+  },
+  {
+    "id": 8
+  },
+  {
+    "id": 8
+  },
+  {
+    "id": 8
+  },
+  {
+    "id": 8
+  }
+]
