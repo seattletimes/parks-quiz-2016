@@ -25,14 +25,14 @@
       <header>
 
         <h2 class="quiz-label">Label here</h2>
-        
+
         <h1 class="title">
 
-            TITLE GOES
+            National Parks
 
           <div class="secondary">
 
-            HERE
+            Quiz
 
           </div>
 
@@ -40,7 +40,7 @@
 
         <p class="chatter">
 
-          Chatter goes here
+          How well do you know our national parks?
 
           <a class="share-button"></a>
         </p>
@@ -51,7 +51,7 @@
 
         <div class="divider"></div>
 
-        <div class="quiz-box"> 
+        <div class="quiz-box">
 
           <!-- START OF QUIZ -->
           <div class="question-box"></div>
@@ -62,16 +62,16 @@
 
         <div class="credits">
 
-          First credit by <span class="credit-name">Author Name(s)</span> 
+          Questions by <span class="credit-name">Brian Cantwell</span>
 
-          &bull; 
+          &bull;
 
-          Second credit by <span class="credit-name">Author Name(s)</span>
+          Development by <span class="credit-name">Shirley Qiu, Audrey Carlsen</span>
 
         </div>
 
         <div class="sources">
-          Source: <span class="credit-name">Source Name</span>
+          Lead image: <span class="credit-name">TKTKTK</span>
         </div>
 
         <%= t.include("partials/_dontMiss.html", { data: json.Quiz_Elsewhere }) %>
@@ -83,10 +83,10 @@
     <%= t.include("partials/_navBottom.html") %>
 
     <script>
-      <% 
+      <%
         var quizData = {};
         json.Quiz_Questions.forEach(function(q) {
-          quizData[q.id] = { 
+          quizData[q.id] = {
             "question": q.question,
             "image": q.image
           };
@@ -94,7 +94,7 @@
         json.Quiz_Answers.forEach(function(a, index) {
           var id = a.id;
           if (!quizData[id].answers) { quizData[id].answers = [] }
-          var answer = { 
+          var answer = {
             "answer": a.answer,
             "correct": a.correct,
             "id": index

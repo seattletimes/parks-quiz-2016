@@ -119,15 +119,223 @@
     "correct": "9,000-acre National Park of American Samoa is on three Samoan islands and protects coral reefs, rain forests, mountains and beaches."
   },
   {
-    "id": 8
+    "id": 8,
+    "answer": "Nicodemus National Historic Site, Kansas"
   },
   {
-    "id": 8
+    "id": 8,
+    "answer": "Ocmulgee National Monument, Georgia",
+    "correct": "Ocmulgee. American Indians first came to the site during the Paleo-Indian period hunting Ice Age mammals. Their elite lived atop huge, manmade earthen mounds, which remain today. Nicodemus commemorates a community that formerly-enslaved African Americans established in Kansas after the Civil War. Sequoia has big trees. Sleeping Bear has big sand dunes."
   },
   {
-    "id": 8
+    "id": 8,
+    "answer": "Sequoia National Park, California"
   },
   {
-    "id": 8
+    "id": 8,
+    "answer": "Sleeping Bear Dunes National Lakeshore, Michigan"
+  },
+  {
+    "id": 9,
+    "answer": "First Ladies National Historic Site, Ohio"
+  },
+  {
+    "id": 9,
+    "answer": "Clara Barton National Historic Site, Maryland"
+  },
+  {
+    "id": 9,
+    "answer": "Rosie the Riveter WWII Home Front National Historical Park, California",
+    "correct": "Rosie the Riveter WWII Home Front, in Richmond, Calif. First Ladies Historic Site, the former home of First Lady Ida Saxton McKinley, honors all First Ladies. Clara Barton was a pioneering nurse who founded the American Red Cross. Mary McLeod Bethune was influential in advancing the cause of African American women in the early 20th century."
+  },
+  {
+    "id": 9,
+    "answer": "Mary McLeod Bethune Council House National Historic Site, Washington, D.C."
+  },
+  {
+    "id": 10,
+    "answer": "San Juan Island National Historical Park, Washington",
+    "correct": "The English Camp unit of San Juan Island National Historical Park is the site of the English encampment during the famed Pig War of the late 1800s."
+  },
+  {
+    "id": 10,
+    "answer": "New Bedford Whaling National Historical Park, Massachusetts"
+  },
+  {
+    "id": 10,
+    "answer": "Minute Man National Historical Park, Massachusetts"
+  },
+  {
+    "id": 10,
+    "answer": "Virgin Islands National Park, U.S Virgin Islands"
+  },
+  {
+    "id": 11,
+    "answer": "Paradise"
+  },
+  {
+    "id": 11,
+    "answer": "Camp Muir"
+  },
+  {
+    "id": 11,
+    "answer": "Mammoth Cave",
+    "correct": "Mammoth Cave National Park is in Kentucky."
+  },
+  {
+    "id": 11,
+    "answer": "Indian Henry’s Hunting Ground"
+  },
+  {
+    "id": 12,
+    "answer": "Half Dome"
+  },
+  {
+    "id": 12,
+    "answer": "Inspiration Point"
+  },
+  {
+    "id": 12,
+    "answer": "Going-to-the-Sun Road"
+  },
+  {
+    "id": 12,
+    "answer": "El Capitan"
+  },
+  {
+    "id": 13,
+    "answer": "Clingmans Dome"
+  },
+  {
+    "id": 13,
+    "answer": "Cades Cove"
+  },
+  {
+    "id": 13,
+    "answer": "Oconaluftee Valley"
+  },
+  {
+    "id": 13,
+    "answer": "West Thumb",
+    "correct": "West Thumb is a branch of Yellowstone Lake in Yellowstone National Park."
+  },
+  {
+    "id": 14,
+    "answer": "The Great White Throne",
+    "correct": "The Great White Throne is a 6,744-foot mountain of white sandstone in Zion National Park, Utah."
+  },
+  {
+    "id": 14,
+    "answer": "Bright Angel Point"
+  },
+  {
+    "id": 14,
+    "answer": "Phantom Ranch"
+  },
+  {
+    "id": 14,
+    "answer": "North Rim"
+  },
+  {
+    "id": 15,
+    "answer": "Channel Islands National Park"
+  },
+  {
+    "id": 15,
+    "answer": "Joshua Tree National Park"
+  },
+  {
+    "id": 15,
+    "answer": "Isle Royale National Park",
+    "correct": "Isle Royale, surrounded by Lake Superior, is in Michigan."
+  },
+  {
+    "id": 15,
+    "answer": "Kings Canyon National Park"
+  },
+  {
+    "id": 16,
+    "answer": "Theodore Roosevelt"
+  },
+  {
+    "id": 16,
+    "answer": "Edgar Allan Poe"
+  },
+  {
+    "id": 16,
+    "answer": "Jimmy Carter"
+  },
+  {
+    "id": 16,
+    "answer": "Harriet Beecher Stowe",
+    "correct": "There is no national park unit named for abolitionist and “Uncle Tom’s Cabin” author Stowe. There is a Theodore Roosevelt National Park, in North Dakota; and national historic sites commemorate the poet Poe (in Philadelphia) and former president Carter (in Plains, Georgia)."
+  },
+  {
+    "id": 17,
+    "answer": "Canyonlands"
+  },
+  {
+    "id": 17,
+    "answer": "Waimea Canyon",
+    "correct": "On the Hawaiian island of Kauai, Waimea Canyon, often called the Grand Canyon of the Pacific, is part of a Hawaii state park. Bryce Canyon and Canyonlands national parks are in Utah. Black Canyon of the Gunnison National Park is in Colorado."
+  },
+  {
+    "id": 17,
+    "answer": "Bryce Canyon"
+  },
+  {
+    "id": 17,
+    "answer": "Black Canyon of the Gunnison"
+  },
+  {
+    "id": 18,
+    "answer": "North Cascades National Park, Washington"
+  },
+  {
+    "id": 18,
+    "answer": "Mount Lassen Volcanic National Park, California"
+  },
+  {
+    "id": 18,
+    "answer": "Rocky Mountain National Park, Colorado"
+  },
+  {
+    "id": 18,
+    "answer": "Denali National Park, Alaska",
+    "correct": "Denali National Park includes Denali (formerly known as Mount McKinley), the highest North American peak, at 20,310 feet."
+  },
+  {
+    "id": 19,
+    "answer": "Glacier Bay",
+    "correct": "Cruise ships carrying thousands regularly visit Glacier Bay, in Alaska. The other three – Glacier, in Montana; Great Basin, in Nevada; and Great Sand Dunes, in Colorado – are all landlocked."
+  },
+  {
+    "id": 19,
+    "answer": "Glacier"
+  },
+  {
+    "id": 19,
+    "answer": "Great Basin"
+  },
+  {
+    "id": 19,
+    "answer": "Great Sand Dunes"
+  },
+  {
+    "id": 20,
+    "answer": "Dry Tortugas National Park, Florida",
+    "correct": "Dry Tortugas is a group of small, sandy islets far out in the Gulf of Mexico that includes the Civil War-era Fort Jefferson, which became the prison for Dr. Samuel Mudd, convicted of aiding injured Lincoln assassin John Wilkes Booth."
+  },
+  {
+    "id": 20,
+    "answer": "Congaree National Park, South Carolina"
+  },
+  {
+    "id": 20,
+    "answer": "Cuyahoga Valley National Park, Ohio"
+  },
+  {
+    "id": 20,
+    "answer": "Hawaii Volcanoes National Park, Hawaii"
   }
 ]
