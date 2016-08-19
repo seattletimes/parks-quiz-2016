@@ -43,9 +43,7 @@ var watchInput = function() {
   }));
 };
 
-var id = 20;
-
-
+var id = 1;
 
   var score = 0;
 
@@ -99,13 +97,7 @@ var id = 20;
       if (score >= result.min && score <= result.max) {
         // display result
         result.score = score;
-        if (result.score > 5) {
-          result.color = "#589040";
-        } else if (result.score > 2) {
-          result.color = "#F5AE3F";
-        } else {
-          result.color = "#e12329";
-        }
+        result.color = "#0777b3";
         result.total = Object.keys(quizData).length;
 
         $(".question-box").html(ich.overviewTemplate(result));
