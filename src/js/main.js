@@ -62,6 +62,7 @@ var id = 1;
     // keep track of selected answer
     quizData[id].answers.forEach(function(a) {
       if (a.correct) {
+        console.log(quizData[id].image)
         answerData.answer = a.answer;
         answerData.image = quizData[id].image;
         answerData.description = a.correct;
