@@ -3,140 +3,154 @@
     "id": 1,
     "question": "What national park reaches into three states?",
     "image": "1yellowstone.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Yellowstone National Park",
+    "source": "National Park Service"
   },
   {
     "id": 2,
     "question": "The largest national park is",
     "image": "2wrangell.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Wrangell-St. Elias National Park",
+    "photographer": "Robert Cross",
+    "source": "Chicago Tribune"
   },
   {
     "id": 3,
     "question": "What president signed legislation to establish the first national park?",
     "image": "3yellowstone.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Yellowstone National Park",
+    "source": "National Park Service"
   },
   {
     "id": 4,
     "question": "What national park had the most recreational visitors in 2015?",
     "image": "4greatsmoky.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Great Smoky Mountains National Park",
+    "photographer": "Tom Uhlenbrock",
+    "source": "St. Louis Post-Dispatch"
   },
   {
     "id": 5,
     "question": "If you shot a selfie in front of the Tower of Babel, stopped off to see the Parade of Elephants, then took a hike to see Eye of the Whale, you’d be:",
     "image": "5arches.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Arches National Park",
+    "photographer": "Josh Noel",
+    "source": "Chicago Tribune"
   },
   {
     "id": 6,
     "question": "Which state has the most national parks?",
     "image": "6yosemite.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Yosemite National Park",
+    "photographer": "Gary Kazanjian",
+    "source": "AP"
   },
   {
     "id": 7,
     "question": "The southernmost U.S. national park is in",
     "image": "7samoa.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "American Samoa island of Ofu",
+    "photographer": "Robert Cross",
+    "source": "Chicago Tribune"
   },
   {
     "id": 8,
     "question": "Which of these National Park Service units is a prehistoric American Indian site?",
     "image": "8ocmulgee.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Ocmulgee National Park",
+    "source": "National Park Service"
   },
   {
     "id": 9,
     "question": "If you visit a park site that tells the story of patriotic female laborers in the 1940s, you’re at",
     "image": "9rosie.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Rosie the Riveter World War II Home Front National Historic Park",
+    "photographer": "Eric Risberg",
+    "source": "AP"
   },
   {
     "id": 10,
     "question": "What is the only U.S. national park that regularly flies the Union Jack flag of Great Britain?",
     "image": "10sanjuan.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "English Camp, on San Juan Island National Historical Park",
+    "photographer": "Ellen M. Banner",
+    "source": "The Seattle Times"
   },
   {
     "id": 11,
     "question": "Which is NOT a landmark in Washington’s Mount Rainier National Park?",
     "image": "11mammoth.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Mammoth Cave National Park",
+    "photographer": "Gary Berdeaux",
+    "source": "National Park Service"
   },
   {
     "id": 12,
     "question": "Which is NOT a landmark in California’s Yosemite National Park?",
     "image": "12glacier.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Glacier National Park",
+    "photographer": "Brenda Ahearn",
+    "source": "Daily Inter Lake"
   },
   {
     "id": 13,
     "question": "Which is NOT a landmark in Great Smoky Mountains National Park?",
     "image": "13yellowstone.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Yellowstone National Park",
+    "photographer": "Christopher Reynolds",
+    "source": "Los Angeles Times"
   },
   {
     "id": 14,
     "question": "Which is NOT a landmark in Arizona’s Grand Canyon National Park?",
     "image": "14zion.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Zion National Park",
+    "photographer": "Trent Nelson",
+    "source": "The Salt Lake Tribune"
   },
   {
     "id": 15,
     "question": "Which is NOT in California?",
     "image": "15isleroyale.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Isle Royale National Park",
+    "photographer": "Bob Downing",
+    "source": "Akron Beacon Journal"
   },
   {
     "id": 16,
     "question": "Who is NOT commemorated by a national park or national historic site?",
     "image": "16stowe.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Harriet Beecher Stowe (1811-1896)",
+    "source": "Courtesy W.W. Norton & Company"
   },
   {
     "id": 17,
     "question": "Which is NOT the name of a national park?",
     "image": "17waimea.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Waimea Canyon State Park",
+    "photographer": "Kristin Jackson",
+    "source": "The Seattle Times"
   },
   {
     "id": 18,
     "question": "Which national park contains the highest mountain in North America?",
     "image": "18denali.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Denali National Park",
+    "source": "National Park Service"
   },
   {
     "id": 19,
     "question": "What Western U.S. national park is a regular destination for large cruise ships?",
     "image": "19glacier.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Glacier Bay National Park and Preserve",
+    "source": "National Park Service"
   },
   {
     "id": 20,
-    "question": "What national park includes the prison cell of a convicted conspirator – later pardoned -- in the assassination of President Abraham Lincoln?",
+    "question": "What national park includes the prison cell of a convicted conspirator – later pardoned – in the assassination of President Abraham Lincoln?",
     "image": "20drytortugas.jpg",
-    "photographer": "Photographer Name",
-    "source": "Source Name"
+    "location": "Dry Tortugas National Park",
+    "photographer": "Brian Cantwell",
+    "source": "The Seattle Times"
   }
 ]
