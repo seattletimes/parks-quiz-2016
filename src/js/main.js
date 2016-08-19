@@ -43,7 +43,7 @@ var watchInput = function() {
   }));
 };
 
-var id = 19;
+var id = 20;
 
 
 
@@ -111,7 +111,7 @@ var id = 19;
         $(".question-box").html(ich.overviewTemplate(result));
 
         new Share(".share-results", {
-          description: "I scored " + result.score + "/" + result.total + "! " + document.querySelector(`meta[property="og:description"]`).innerHTML,
+          description: "I scored " + result.score + "/" + result.total + "! How well do you know our national parks?",
           ui: {
             flyout: "bottom right",
             button_text: "Share results"
@@ -119,6 +119,9 @@ var id = 19;
           networks: {
             email: {
               description: "I scored " + result.score + "/" + result.total + "! " + [document.querySelector(`meta[property="og:description"]`).innerHTML, window.location.href].join("\n")
+            }, 
+            facebook: {
+               description: "I scored " + result.score + "/" + result.total + "! " + [document.querySelector(`meta[property="og:description"]`).innerHTML, window.location.href].join("\n")
             }
           }
         });
