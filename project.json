@@ -11,10 +11,10 @@
   },
   "title": "National Parks Quiz",
   "description": "Description",
-  "url": "http://projects.seattletimes.com/2016/quizzes/parks-quiz-2016/",
+  "url": "http://projects-staging.seattletimes.com/whispering-butterfly/",
   "slug": "",
   "tags": [ "quiz" ],
-  "image": "http://projects-staging.seattletimes.com/whispering-butterfly/assets/splash.jpg",
+  "image": "http://projects-staging.seattletimes.com/whispering-butterfly/assets/social-splash.jpg",
   "sheets": ["1_g6SV1dhIjuSy8C8DtY7whz6GrMY7ts-lOAzzWp6Uyc"],
   "production": false,
   "embedded": true
