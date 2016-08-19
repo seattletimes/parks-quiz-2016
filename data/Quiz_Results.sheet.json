@@ -2,7 +2,7 @@
   {
     "min": 0,
     "max": 2,
-    "title": "Level One",
+    "title": "Cub Scout",
     "description": "Description goes here.",
     "image": "test.jpg",
     "photographer": "Photographer Name",
@@ -11,7 +11,7 @@
   {
     "min": 3,
     "max": 5,
-    "title": "Level Two",
+    "title": "New REI Member",
     "description": "Description goes here.",
     "image": "test.jpg",
     "photographer": "Photographer Name",
@@ -20,7 +20,7 @@
   {
     "min": 6,
     "max": 8,
-    "title": "Level Three",
+    "title": "Outdoors Enthusiast",
     "description": "Description goes here.",
     "image": "test.jpg",
     "photographer": "Photographer Name",
@@ -29,8 +29,8 @@
   {
     "min": 9,
     "max": 12,
-    "title": "Level Four",
-    "description": "Description goes here.",
+    "title": "Senior Park Ranger",
+    "description": "You're probably half-way out the door already. Hats off to you and your extensive national parks knowledge!",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
