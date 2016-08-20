@@ -6,7 +6,7 @@
   {
     "id": 1,
     "answer": "Yellowstone",
-    "correct": "Yellowstone is in Wyoming, Montana and Idaho. Great Smoky Mountains is in North Carolina and Tennessee. Death Valley is in California and Nevada. Grand Canyon is entirely within Arizona."
+    "correct": "Yellowstone reaches into three states: Wyoming, Montana and Idaho. Great Smoky Mountains is in North Carolina and Tennessee. Death Valley is in California and Nevada. Grand Canyon is entirely within Arizona."
   },
   {
     "id": 1,
@@ -44,7 +44,7 @@
   {
     "id": 3,
     "answer": "Ulysses S. Grant",
-    "correct": "Grant, on March 1, 1872, establishing Yellowstone National Park"
+    "correct": "Grant, on March 1, 1872, established Yellowstone National Park"
   },
   {
     "id": 3,
@@ -53,7 +53,7 @@
   {
     "id": 4,
     "answer": "Great Smoky Mountains",
-    "correct": "Great Smoky Mountains, with 10.7 million last year"
+    "correct": "Great Smoky Mountains had 10.7 million visitors last year"
   },
   {
     "id": 4,
@@ -196,7 +196,8 @@
   },
   {
     "id": 12,
-    "answer": "Going-to-the-Sun Road"
+    "answer": "Going-to-the-Sun Road",
+    "correct": "Going-to-the-Sun Road is in Glacier National Park, Montana."
   },
   {
     "id": 12,

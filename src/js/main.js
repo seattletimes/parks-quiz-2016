@@ -47,7 +47,6 @@ var id = 1;
 
 var score = 0;
 
-console.log(quizData[1]);
 $(".quiz-container").on("click", ".submit", function() {
   // score answer
 
