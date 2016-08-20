@@ -11,11 +11,11 @@
   },
   "title": "National Parks Quiz",
   "description": "How well do you know our national parks? Take the quiz to find out!",
-  "url": "http://projects-staging.seattletimes.com/whispering-butterfly/",
+  "url": "http://projects.seattletimes.com/2016/quizzes/parks-quiz-2016",
   "slug": "",
   "tags": [ "quiz" ],
   "image": "assets/social.jpg",
   "sheets": ["1_g6SV1dhIjuSy8C8DtY7whz6GrMY7ts-lOAzzWp6Uyc"],
-  "production": false,
-  "embedded": true
+  "production": true,
+  "embedded": false
 }
