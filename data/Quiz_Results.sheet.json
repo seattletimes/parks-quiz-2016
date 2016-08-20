@@ -3,7 +3,7 @@
     "min": 0,
     "max": 2,
     "title": "Cub Scout",
-    "description": "Description goes here.",
+    "description": "New to the wilderness? Not to worry — there are plenty of outdoor spaces in our nation to explore (especially if you're a Washingtonian).",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
@@ -12,7 +12,7 @@
     "min": 3,
     "max": 5,
     "title": "New REI Member",
-    "description": "Description goes here.",
+    "description": "You're on your way to knowing our nation's great parks! Break into those hiking boots this year to celebrate the National Park Service's 100th birthday.",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
@@ -20,8 +20,8 @@
   {
     "min": 6,
     "max": 8,
-    "title": "Extreme Outdoors Enthusiast",
-    "description": "Description goes here.",
+    "title": "Certified Granola",
+    "description": "Nice! You probably don't need much convincing to enjoy our nation's beautiful parks. Get out there this week to celebrate the National Park Service's 100th birthday.",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
