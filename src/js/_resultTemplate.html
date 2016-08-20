@@ -4,7 +4,7 @@
     <div class="answer">
       <div class="index"></div>
       <span class="highlight correct">{{#hooray}}Right!{{/hooray}}</span>
-      <span class="highlight wrong">{{^hooray}}Wrong.{{/hooray}}</span>
+      <span class="highlight wrong">{{^hooray}}Nope.{{/hooray}}</span>
 
       <div class="answer-box">
         <span class="correct-answer">
@@ -16,7 +16,8 @@
     
   <div class="inset-image">
     <img src="./assets/quiz/{{image}}">
-    <p class="photo-credit">{{photographer}} / {{source}}</p>
+    
+    <p class="photo-credit">{{#photographer}}{{photographer}}/{{/photographer}}{{source}}</p>
   </div>
 
     <button class="next active">Next question <i class="fa fa-arrow-right"></i></button>

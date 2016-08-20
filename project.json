@@ -9,9 +9,9 @@
       "path": "2016/quizzes/parks-quiz-2016"
     }
   },
-  "title": "",
-  "description": "",
-  "url": "http://projects.seattletimes.com/2016/quizzes/parks-quiz-2016/",
+  "title": "National Parks Quiz",
+  "description": "How well do you know our national parks? Take the quiz to find out!",
+  "url": "http://projects-staging.seattletimes.com/whispering-butterfly/",
   "slug": "",
   "tags": [ "quiz" ],
   "image": "assets/social.jpg",
