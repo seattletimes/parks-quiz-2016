@@ -1,7 +1,7 @@
 [
   {
     "min": 0,
-    "max": 2,
+    "max": 5,
     "title": "Cub Scout",
     "description": "New to the wilderness? Not to worry — there are plenty of outdoor spaces in our nation to explore (especially if you're a Washingtonian).",
     "image": "test.jpg",
@@ -9,8 +9,8 @@
     "source": "Source Name"
   },
   {
-    "min": 3,
-    "max": 5,
+    "min": 6,
+    "max": 10,
     "title": "New REI Member",
     "description": "You're on your way to knowing our nation's great parks! Break into those hiking boots this year to celebrate the National Park Service's 100th birthday.",
     "image": "test.jpg",
@@ -18,8 +18,8 @@
     "source": "Source Name"
   },
   {
-    "min": 6,
-    "max": 8,
+    "min": 11,
+    "max": 15,
     "title": "Certified Granola",
     "description": "Nice! You probably don't need much convincing to enjoy our nation's beautiful parks. Get out there this week to celebrate the National Park Service's 100th birthday.",
     "image": "test.jpg",
@@ -27,8 +27,8 @@
     "source": "Source Name"
   },
   {
-    "min": 9,
-    "max": 12,
+    "min": 16,
+    "max": 20,
     "title": "Senior Park Ranger",
     "description": "You're probably half-way out the door already. Hats off to you and your extensive national parks knowledge!",
     "image": "test.jpg",
