@@ -27,7 +27,7 @@
   {
     "id": 2,
     "answer": "Wrangell-St. Elias National Park, because, oh, it’s Alaska",
-    "correct": "Alaska’s Wrangell-St. Elias National Park, with 13.2 million acres, is the same size as Yellowstone National Park, Yosemite National Park, and Switzerland combined. Seven of America’s 10 largest national parks are in Alaska (also including Gates of the Arctic, Denali, Katmai, Glacier Bay, Lake Clark and Kobuk Valley)."
+    "correct": "Alaska’s Wrangell-St. Elias National Park is the largest in the nation. With 13.2 million acres, it is the same size as Yellowstone National Park, Yosemite National Park, and Switzerland combined. Seven of America’s 10 largest national parks are in Alaska (also including Gates of the Arctic, Denali, Katmai, Glacier Bay, Lake Clark and Kobuk Valley)."
   },
   {
     "id": 2,
@@ -44,7 +44,7 @@
   {
     "id": 3,
     "answer": "Ulysses S. Grant",
-    "correct": "Grant, on March 1, 1872, established Yellowstone National Park"
+    "correct": "Grant signed legislation on March 1, 1872, establishing the first national park: Yellowstone National Park."
   },
   {
     "id": 3,
@@ -53,7 +53,7 @@
   {
     "id": 4,
     "answer": "Great Smoky Mountains",
-    "correct": "Great Smoky Mountains had 10.7 million visitors last year"
+    "correct": "Great Smoky Mountains had the most recreational visitors — 10.7 million — in 2015."
   },
   {
     "id": 4,
@@ -74,7 +74,7 @@
   {
     "id": 5,
     "answer": "Agog over rock formations at Arches National Park, Utah.",
-    "correct": "Arches National Park (those are all rock formations)"
+    "correct": "If you shot a selfie in front of the Tower of Babel, stopped off to see the Parade of Elephants, then took a hike to see Eye of the Whale, you’d be agog over rock formations at Arches National Park (those are all rock formations)"
   },
   {
     "id": 5,
@@ -99,7 +99,7 @@
   {
     "id": 6,
     "answer": "California",
-    "correct": "California has the most (nine), followed by Alaska (eight), Utah (five), and Colorado (four)"
+    "correct": "California has the most national parks (nine), followed by Alaska (eight), Utah (five), and Colorado (four)"
   },
   {
     "id": 7,
@@ -116,7 +116,7 @@
   {
     "id": 7,
     "answer": "American Samoa",
-    "correct": "9,000-acre National Park of American Samoa is on three Samoan islands and protects coral reefs, rain forests, mountains and beaches."
+    "correct": "The southernmost U.S. national park is in 9,000-acre National Park of American Samoa is on three Samoan islands and protects coral reefs, rain forests, mountains and beaches."
   },
   {
     "id": 8,
@@ -125,7 +125,7 @@
   {
     "id": 8,
     "answer": "Ocmulgee National Monument, Georgia",
-    "correct": "Ocmulgee. American Indians first came to the site during the Paleo-Indian period hunting Ice Age mammals. Their elite lived atop huge, manmade earthen mounds, which remain today. Nicodemus commemorates a community that formerly-enslaved African Americans established in Kansas after the Civil War. Sequoia has big trees. Sleeping Bear has big sand dunes."
+    "correct": "Ocmulgee National Park is a prehistoric American Indian site. American Indians first came to the site during the Paleo-Indian period hunting Ice Age mammals. Their elite lived atop huge, manmade earthen mounds, which remain today. Nicodemus commemorates a community that formerly-enslaved African Americans established in Kansas after the Civil War. Sequoia has big trees. Sleeping Bear has big sand dunes."
   },
   {
     "id": 8,
@@ -146,7 +146,7 @@
   {
     "id": 9,
     "answer": "Rosie the Riveter WWII Home Front National Historical Park, California",
-    "correct": "Rosie the Riveter WWII Home Front, in Richmond, Calif. First Ladies Historic Site, the former home of First Lady Ida Saxton McKinley, honors all First Ladies. Clara Barton was a pioneering nurse who founded the American Red Cross. Mary McLeod Bethune was influential in advancing the cause of African American women in the early 20th century."
+    "correct": "If you visit a park site that tells the story of patriotic female laborers in the 1940s, you’re at Rosie the Riveter WWII Home Front, in Richmond, Calif. First Ladies Historic Site, the former home of First Lady Ida Saxton McKinley, honors all First Ladies. Clara Barton was a pioneering nurse who founded the American Red Cross. Mary McLeod Bethune was influential in advancing the cause of African American women in the early 20th century."
   },
   {
     "id": 9,
@@ -155,7 +155,7 @@
   {
     "id": 10,
     "answer": "San Juan Island National Historical Park, Washington",
-    "correct": "The English Camp unit of San Juan Island National Historical Park is the site of the English encampment during the famed Pig War of the late 1800s."
+    "correct": "The only U.S. national park that regularly flies the Union Jack flag of Great Britain is the English Camp unit of San Juan Island National Historical Park. It's the site of the English encampment during the famed Pig War of the late 1800s."
   },
   {
     "id": 10,
@@ -180,7 +180,7 @@
   {
     "id": 11,
     "answer": "Mammoth Cave",
-    "correct": "Mammoth Cave National Park is in Kentucky."
+    "correct": "Mammoth Cave is NOT a landmark in Washington’s Mount Rainier National Park; it's in Kentucky."
   },
   {
     "id": 11,
@@ -197,7 +197,7 @@
   {
     "id": 12,
     "answer": "Going-to-the-Sun Road",
-    "correct": "Going-to-the-Sun Road is in Glacier National Park, Montana."
+    "correct": "Going-to-the-Sun Road is NOT a landmark in California’s Yosemite National Park; it's in Glacier National Park, Montana."
   },
   {
     "id": 12,
@@ -218,12 +218,12 @@
   {
     "id": 13,
     "answer": "West Thumb",
-    "correct": "West Thumb is a branch of Yellowstone Lake in Yellowstone National Park."
+    "correct": "West Thumb is NOT a landmark in Great Smoky Mountains National Park; it's a branch of Yellowstone Lake in Yellowstone National Park."
   },
   {
     "id": 14,
     "answer": "The Great White Throne",
-    "correct": "The Great White Throne is a 6,744-foot mountain of white sandstone in Zion National Park, Utah."
+    "correct": "The Great White Throne is NOT a landmark in Arizona’s Grand Canyon National Park; it's a 6,744-foot mountain of white sandstone in Zion National Park, Utah."
   },
   {
     "id": 14,
@@ -248,7 +248,7 @@
   {
     "id": 15,
     "answer": "Isle Royale National Park",
-    "correct": "Isle Royale, surrounded by Lake Superior, is in Michigan."
+    "correct": "Isle Royale is NOT in California; surrounded by Lake Superior, it's in Michigan."
   },
   {
     "id": 15,
@@ -278,7 +278,7 @@
   {
     "id": 17,
     "answer": "Waimea Canyon",
-    "correct": "On the Hawaiian island of Kauai, Waimea Canyon, often called the Grand Canyon of the Pacific, is part of a Hawaii state park. Bryce Canyon and Canyonlands national parks are in Utah. Black Canyon of the Gunnison National Park is in Colorado."
+    "correct": "On the Hawaiian island of Kauai, Waimea Canyon is NOT the name of a national park. It is often called the Grand Canyon of the Pacific, and is part of a Hawaii state park. Bryce Canyon and Canyonlands national parks are in Utah. Black Canyon of the Gunnison National Park is in Colorado."
   },
   {
     "id": 17,
